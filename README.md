@@ -8,7 +8,6 @@
 <!--![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)-->
 <h1 align="center">Hi 👋, I'm Rajdeep</h1>
 <h3 align="center">A passionate Full-Stack Java developer from India</h3>
-## Moving Logos [🔝](#--gifs-for-readme--)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep-1508&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-1508" /> </p>
 
